@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/hlee/AndroidStudioProjects/ActionBarNavTabSwipe1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/apple_selected.png",
+        "source": "/home/hlee/AndroidStudioProjects/ActionBarNavTabSwipe1/app/src/main/res/drawable-mdpi/apple_selected.png"
+    },
+    {
+        "merged": "/home/hlee/AndroidStudioProjects/ActionBarNavTabSwipe1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/android_unselected.png",
+        "source": "/home/hlee/AndroidStudioProjects/ActionBarNavTabSwipe1/app/src/main/res/drawable-mdpi/android_unselected.png"
+    },
+    {
+        "merged": "/home/hlee/AndroidStudioProjects/ActionBarNavTabSwipe1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/home/hlee/AndroidStudioProjects/ActionBarNavTabSwipe1/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/hlee/AndroidStudioProjects/ActionBarNavTabSwipe1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/apple_unselected.png",
+        "source": "/home/hlee/AndroidStudioProjects/ActionBarNavTabSwipe1/app/src/main/res/drawable-mdpi/apple_unselected.png"
+    },
+    {
+        "merged": "/home/hlee/AndroidStudioProjects/ActionBarNavTabSwipe1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/android_selected.png",
+        "source": "/home/hlee/AndroidStudioProjects/ActionBarNavTabSwipe1/app/src/main/res/drawable-mdpi/android_selected.png"
+    }
+]
